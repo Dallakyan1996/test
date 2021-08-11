@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.InputButton {
+  background-color: #eeeeee !important;
+}
+
+.InputButton:hover {
+  background-color: #08b3aa !important;
+  color: #fff;
+  outline: 1px solid #08b3aa;
+}
+.InputButton:focus {
+  background-color: #08b3aa !important;
+  color: #fff;
+  outline: 1px solid #08b3aa;
+}
+
+.search-input-box {
+  background-color: #ffffff !important;
+}
+
+.search-input-box,
+.InputButton {
+  outline: 1px solid rgb(179, 179, 179);
+}
